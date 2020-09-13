@@ -16,7 +16,6 @@ body {
     background-size: contain;
     width: 40%;
     padding-top:40%;
-    float: left;
     overflow: hidden;
     flex: 1;
 }
@@ -37,7 +36,6 @@ body {
 .thumb-body {
     width: 60%;
     padding: 10%;
-    float: left;
     margin: 0 auto;
     flex: 1;
 }
