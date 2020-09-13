@@ -6,7 +6,7 @@ body {
 }
 
 .thumbnail {
-    background-image: url('./images/drawers.jpg');
+    background-image: url('../images/drawers.jpg');
 }
 
 .panel {
