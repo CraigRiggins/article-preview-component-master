@@ -13,7 +13,7 @@ body {
 
 .thumbnail {
     background-image: url('../images/drawers.jpg');
-    background-size: contain;
+    background-size: 50%;
     width: 40%;
     padding-top:30%;
     overflow: hidden;
