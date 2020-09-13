@@ -1,6 +1,7 @@
 body {
     background: hsl(210, 46%, 95%);
     width: 1440px;
+    height: 100%;
     position: relative;
 }
 
@@ -9,7 +10,6 @@ body {
     position: absolute;
     top: 50%;
     left: 50%;
-
     transform: translate(-50%, -50%);
 }
 
