@@ -13,9 +13,11 @@ body {
 
 .thumbnail {
     background-image: url('../images/drawers.jpg');
+    background-size: contain;
     width: 40%;
     padding-top:100%;
     float: left;
+    overflow: hidden;
 
 }
 
