@@ -5,10 +5,18 @@ body {
     position: relative;
 }
 
+.panel-wrap{
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
 .thumbnail {
     background-image: url('../images/drawers.jpg');
-    height: 100%;
+    width: 40%;
     padding-top:100%;
+    float: left;
+
 }
 
 .panel {
@@ -20,9 +28,10 @@ body {
     background: #fff;
     border-radius: 10px;
     box-shadow: 10px;
+    overflow: hidden;
 }
 
 .thumb-body {
     padding: 10%;
-
+    float: left;
 }
