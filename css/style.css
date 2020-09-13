@@ -15,7 +15,7 @@ body {
     background-image: url('../images/drawers.jpg');
     background-size: contain;
     width: 40%;
-    padding-top:100%;
+    padding-top:40%;
     float: left;
     overflow: hidden;
 
@@ -36,4 +36,5 @@ body {
 .thumb-body {
     padding: 10%;
     float: left;
+    margin: 0 auto;
 }
