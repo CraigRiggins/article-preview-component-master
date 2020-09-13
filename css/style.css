@@ -15,6 +15,7 @@ body {
     background-image: url('../images/drawers.jpg');
     background-size: contain;
     width: 40%;
+    padding-top:30%;
     overflow: hidden;
     flex: 1;
 }
