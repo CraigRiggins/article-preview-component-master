@@ -13,6 +13,7 @@ body {
 
 .thumbnail {
     background-image: url('../images/drawers.jpg');
+    background-size: auto;
     object-fit: cover;
     width: 40%;
     padding-top:30%;
