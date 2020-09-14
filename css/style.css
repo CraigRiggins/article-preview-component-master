@@ -15,7 +15,7 @@ body {
     background-image: url('../images/drawers.jpg');
     background-size: 360px 288px;
     object-fit: cover;
-    width: 45%;
+    width: 40%;
     padding-top:40%;
     overflow: hidden;
     flex: 1;
