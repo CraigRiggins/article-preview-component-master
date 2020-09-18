@@ -1,8 +1,14 @@
+@font-face {
+    font-family: Manrope;
+    src: url(https://fonts.google.com/specimen/Manrope);
+}
+
 body {
     background: hsl(210, 46%, 95%);
     width: 1440px;
     height: 1080px;
     position: relative;
+    font-family: Manrope;
 }
 
 .panel-wrap{
@@ -18,7 +24,7 @@ body {
     width: 40%;
     padding-top:40%;
     overflow: hidden;
-    flex: 1;
+    flex: 4;
 }
 
 .panel {
@@ -38,5 +44,5 @@ body {
     width: 60%;
     padding: 10%;
     margin: 0 auto;
-    flex: 1;
+    flex: 6;
 }
